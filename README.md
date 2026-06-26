@@ -55,6 +55,10 @@ Add a screenshot of your project here.
 - Organizing frontend project files
 - Improving UI design skills
 
+## Project Link
+
+https://mahesh549990.github.io/spotifyhomepage/
+
 ## 👨‍💻 Author
 
 **Mahesh Bhatt**
