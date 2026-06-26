@@ -63,7 +63,7 @@ https://mahesh549990.github.io/spotifyhomepage/
 
 **Mahesh Bhatt**
 
-GitHub: Your GitHub Profile Link
+GitHub: https://github.com/MAHESH549990
 
 ---
 
